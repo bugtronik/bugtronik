@@ -6,7 +6,7 @@
 
 ### 👨‍💼: About Me :
 I am a Database Engineer
-
+I love databases and mathematics
 
 <!--
 **bugtronik/bugtronik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
