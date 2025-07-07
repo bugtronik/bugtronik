@@ -37,7 +37,7 @@ Ici, tu trouveras une collection de mes créations, des applications web complè
 
 *(Suggestion : Ajoute ici des liens vers 2-3 de tes meilleurs projets, avec une brève description pour chacun. Par exemple :)*
 
-* **[Nom du Projet 1]** : Une application web full-stack de [décrire brièvement son objectif]. Construit avec [technologies utilisées].
+* **Infotraffic https://github.com/bugtronik/stg_infotraffic.git** : Infotraffic est une API permettant de récupérer les informations des trains. Construit avec Spring boot.
 * **[Nom du Projet 2]** : Un système de gestion de [décrire brièvement son objectif], incluant une API RESTful. Technologies : [technologies utilisées].
 * **[Nom du Script d'automatisation]** : Un script Python pour [décrire ce qu'il automatise].
 
