@@ -1,4 +1,4 @@
-# 👋 Bonjour, je suis [Ton Nom]  
+# 👋 Bonjour, je suis Aly MBOUMBA DIAWARA
 
 💻 **Database Engineer | Backend Developer**  
 
@@ -39,9 +39,9 @@ Passionné par la **gestion de données** et le **développement backend**, j’
 ---
 
 ## 🌐 Retrouve-moi
-- GitHub : [ton lien GitHub]  
-- LinkedIn : [ton lien LinkedIn]  
-- Email : [ton email]  
+- GitHub : (https://github.com/bugtronik)
+- LinkedIn : https://www.linkedin.com/in/aly-mboumba-diawara-26161a132/
+- Email : aly.mboumba@hotmail.com
 
 ---
 
