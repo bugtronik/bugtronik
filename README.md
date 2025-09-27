@@ -17,7 +17,7 @@ Passionné par la **gestion de données** et le **développement backend**, j’
 - Spring Boot  
 
 ### 🔹 Framework Frontend  
-- <img width="836" height="892" alt="image" src="https://github.com/user-attachments/assets/4c335119-7960-4398-959e-7a3be0daa7de" /> Angular  
+- https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg Angular  
 
 ### 🔹 Bases de données  
 - MySQL | PostgreSQL | SQL Server | Redis
