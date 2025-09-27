@@ -2,7 +2,7 @@
 
 💻 **Database Engineer | Full-Stack Developer**  
 
-Passionné par la **gestion de données** et le **développement backend**, j’aime concevoir des solutions performantes et évolutives pour transformer les données en valeur.  
+Passionné par la **gestion de données** et le **développement Full-Stack**, j’aime concevoir des solutions performantes et évolutives pour transformer les données en valeur.  
 
 ---
 
