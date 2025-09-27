@@ -17,7 +17,7 @@ Passionné par la **gestion de données** et le **développement backend**, j’
 - Spring Boot  
 
 ### 🔹 Framework Frontend  
-- https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg Angular  
+- Angular  
 
 ### 🔹 Bases de données  
 - MySQL | PostgreSQL | SQL Server | Redis
@@ -26,14 +26,24 @@ Passionné par la **gestion de données** et le **développement backend**, j’
 - Numpy | Pandas | Matplotlib | Seaborn | Scikit-learn  
 
 ### 🔹 Visualisation & Reporting  
-- Power BI  
+- Power BI
+
+### 🔹 Conteneurisation
+- Docker & Docker compose
+
+### 🔹 Orchestration
+- Kubernetes (K8s)
+
+### 🔹 Supervision (Monitoring, Logging & Alerting)
+- Monitoring : Prometheus (collecte de métriques) + Grafana (visualisation et dashboards)
+- Logging : La stack EFK (Elasticsearch, Fluentd, Kibana)
 
 ---
 
 ## 📊 Ce que je fais
 - Conception et optimisation de bases de données relationnelles et NoSQL  
 - Développement d’API backend performantes et sécurisées
-- Mise en place d'interface frontend
+- Mise en place d'interface frontend ergonomique (web et mobile)
 - Analyse et visualisation de données pour aider à la prise de décision  
 - Intégration de solutions de Business Intelligence  
 
