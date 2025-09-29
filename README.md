@@ -44,8 +44,8 @@ Passionné par la **gestion de données** et le **développement Full-Stack**, j
 - Conception et optimisation de bases de données relationnelles et NoSQL  
 - Développement d’API backend performantes et sécurisées
 - Mise en place d'interface frontend ergonomique (web et mobile)
-- Analyse et visualisation de données pour aider à la prise de décision  
-- Intégration de solutions de Business Intelligence  
+- Mise en place d'un CI/CD
+- Rédaction des tests unitaires et d'intégration 
 
 ---
 
