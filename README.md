@@ -1,6 +1,6 @@
 # 👋 Bonjour, je suis Aly MBOUMBA DIAWARA
 
-💻 **Database Engineer | Full-Stack Developer**  
+💻 **Database Engineer | Full-Stack Developer | DevOps**  
 
 Passionné par la **gestion de données** et le **développement Full-Stack**, j’aime concevoir des solutions performantes et évolutives pour transformer les données en valeur.  
 
@@ -20,10 +20,7 @@ Passionné par la **gestion de données** et le **développement Full-Stack**, j
 - Angular  
 
 ### 🔹 Bases de données  
-- MySQL | PostgreSQL | SQL Server | Redis
-
-### 🔹 Data Analytics & Data Science  
-- Numpy | Pandas | Matplotlib | Seaborn | Scikit-learn  
+- MySQL | PostgreSQL | SQL Server | Redis 
 
 ### 🔹 Visualisation & Reporting  
 - Power BI
