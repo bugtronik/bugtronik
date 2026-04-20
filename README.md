@@ -1,6 +1,6 @@
 # 👋 Bonjour, je suis Aly MBOUMBA DIAWARA
 
-💻 **Database Engineer | Full-Stack Developer | DevOps**  
+💻 **Database Engineer | Full-Stack Developer**  
 
 Passionné par la **gestion de données** et le **développement Full-Stack**, j’aime concevoir des solutions performantes et évolutives pour transformer les données en valeur.  
 
@@ -20,29 +20,34 @@ Passionné par la **gestion de données** et le **développement Full-Stack**, j
 - Angular  
 
 ### 🔹 Bases de données  
-- MySQL | PostgreSQL | SQL Server | Redis 
+- MySQL | PostgreSQL | SQL Server | Oracle 
 
 ### 🔹 Visualisation & Reporting  
 - Power BI
 
 ### 🔹 Conteneurisation
-- Docker & Docker compose
+- Docker
 
 ### 🔹 Orchestration
 - Kubernetes (K8s)
+- Apache Airflow
+
+### 🔹 Streaming & Big Data
+- Apache Kafka
+- Apache Spark
+- Apache Hadoop
 
 ### 🔹 Supervision (Monitoring, Logging & Alerting)
 - Monitoring : Prometheus (collecte de métriques) + Grafana (visualisation et dashboards)
-- Logging : La stack EFK (Elasticsearch, Fluentd, Kibana)
 
 ---
 
 ## 📊 Ce que je fais
-- Conception et optimisation de bases de données relationnelles et NoSQL  
+- Conception et optimisation de bases de données relationnelles
 - Développement d’API backend performantes et sécurisées
-- Mise en place d'interface frontend ergonomique (web et mobile)
+- Mise en place des pipelines de données pour l'analyse décisionnelle
 - Mise en place d'un CI/CD
-- Rédaction des tests unitaires et d'intégration 
+- Développement des dashboards de visualisation des KIPs
 
 ---
 
