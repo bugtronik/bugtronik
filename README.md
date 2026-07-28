@@ -1,8 +1,8 @@
 # 👋 Bonjour, je suis Aly MBOUMBA DIAWARA
 
-💻 **Database Engineer | Full-Stack Developer**  
+💻 **DevSecOps Engineer**  
 
-Passionné par la **gestion de données** et le **développement Full-Stack**, j’aime concevoir des solutions performantes et évolutives pour transformer les données en valeur.  
+Passionné par le **DevSecOps**, j’aime concevoir des architectures performantes et évolutives pour facilité les déploiements.  
 
 ---
 
@@ -22,8 +22,8 @@ Passionné par la **gestion de données** et le **développement Full-Stack**, j
 ### 🔹 Bases de données  
 - MySQL | PostgreSQL | SQL Server | Oracle 
 
-### 🔹 Visualisation & Reporting  
-- Power BI
+### 🔹 Quality code  
+- SonarQube
 
 ### 🔹 Conteneurisation
 - Docker
@@ -32,10 +32,8 @@ Passionné par la **gestion de données** et le **développement Full-Stack**, j
 - Kubernetes (K8s)
 - Apache Airflow
 
-### 🔹 Streaming & Big Data
-- Apache Kafka
-- Apache Spark
-- Apache Hadoop
+### 🔹 Gestion centralisée, mise en cache et stockage privée
+- SonarType Nexus Repository
 
 ### 🔹 Supervision (Monitoring, Logging & Alerting)
 - Monitoring : Prometheus (collecte de métriques) + Grafana (visualisation et dashboards)
@@ -45,9 +43,9 @@ Passionné par la **gestion de données** et le **développement Full-Stack**, j
 ## 📊 Ce que je fais
 - Conception et optimisation de bases de données relationnelles
 - Développement d’API backend performantes et sécurisées
-- Mise en place des pipelines de données pour l'analyse décisionnelle
-- Mise en place d'un CI/CD
-- Développement des dashboards de visualisation des KIPs
+- Conteneurisation des applications
+- Mise en place des pipelines CI/CD
+- Sécurisation des applications en suivant le modèle OWASP
 
 ---
 
@@ -58,4 +56,4 @@ Passionné par la **gestion de données** et le **développement Full-Stack**, j
 
 ---
 
-✨ Toujours curieux d’apprendre et ouvert aux collaborations sur des projets data et full-stack !
+✨ Toujours curieux d’apprendre et ouvert aux collaborations sur des projets DevOps!
